@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a dating app focused on finding coding partners or co-founders with Django and React<br>🌱 I’m currently learning SAS<br>💬 Don’t hesitate to ask me about my projects<br>⚡ « Let your ambition carry you »
+🌱 I’m currently learning SAS<br>💬 Don’t hesitate to ask me about my projects<br>⚡ « Let your ambition carry you »
 
 
 # 💻 Tech Stack:
@@ -10,9 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=mdoyenblec&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdoyenblec&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoyenblec&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mdoyenblec&limit=5&theme=aura&combine_all_yearly_contributions=true)
