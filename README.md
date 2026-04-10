@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning SAS<br>💬 Don’t hesitate to ask me about my projects<br>⚡ « Let your ambition carry you »
+🌱 I’m currently learning SAS<br>💬 Don’t hesitate to ask me about my projects
 
 
 # 💻 Tech Stack:
